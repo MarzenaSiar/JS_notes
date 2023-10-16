@@ -14,3 +14,10 @@ scope | function | block | block
 2. Anonymous
 - classic
 - arrow functions
+---
+### control flow
+1. for
+2. while
+3. do while
+4. switch
+5. 
