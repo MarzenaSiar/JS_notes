@@ -25,6 +25,12 @@
 //Hoisting
 //Przenoszenie deklaracji zmiennych var, deklaracji funkcji nazwanych, klas na górę aktualnie przetwarzanego zasięgu. TDZ- Temporary Dead Zone
 
+// function DoSmthAmeswome(){
+//     var z1;
+//     console.log(z1);
+//     z1 = 42;
+// }
+
 //Scope
 //Widoczność dostępnych identyfikatorów (nazwy zmiennych, funkcji i klas) - globa; - local (dostępny tylko w aktualnym zasięgu)
 //function scope (tworzony przez ciało funkcji)
