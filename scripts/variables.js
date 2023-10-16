@@ -1,14 +1,14 @@
-// //Re-declaration of variables
+// //Redeclaration of variables
 //Declariation is "x1"
 
 // var x1 = 42;
 // var x1 = 666;
 
 // let x2 = 42;
-// let x2 = 666; //error, it can't be re-declared
+// let x2 = 666; //error, it can't be redeclared
 
 // const x3 = 42;
-// const x3 = 666; //error, it can't be re-declared
+// const x3 = 666; //error, it can't be rEdeclared
 
 // //Re-assigment of variables
 //Przypisanie nowej wartośći do istniejącej zmiennej
@@ -30,6 +30,9 @@
 //     console.log(z1);
 //     z1 = 42;
 // }
+
+// DoSmthAweswome()
+// console.log()
 
 //Scope
 //Widoczność dostępnych identyfikatorów (nazwy zmiennych, funkcji i klas) - globa; - local (dostępny tylko w aktualnym zasięgu)
