@@ -59,3 +59,16 @@ function arrayIntersection(arr1, arr2) {
 
 console.log(arrayIntersection([1, 2, 3],[3, 5, 6]));
 
+// myLord - Witaj mój Panie!, Co jeszcze mogę dla Ciebie zrobić,
+// Pięknie dzisiaj wyglądasz!
+
+// 1. Stwórz funkcje, która nie ma args
+// 2. Stworz tablice z tekstami i przypis do zmiennej
+// 3. Zwróc losowy tekst zależny od indeksu z tablicy
+
+function myLord() {
+    const sentences = ['Witaj mój Panie!',' Co jeszcze mogę dla Ciebie zrobić', 'Pięknie dzisiaj wyglądasz!'];
+    return sentences[Math.round(Math.random() * (sentences.length - 1))];
+}
+
+console.log(myLord())

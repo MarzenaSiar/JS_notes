@@ -8,7 +8,7 @@
 // let x2 = 666; //error, it can't be redeclared
 
 // const x3 = 42;
-// const x3 = 666; //error, it can't be rEdeclared
+// const x3 = 666; //error, it can't be redeclared
 
 // //Re-assigment of variables
 //Przypisanie nowej wartośći do istniejącej zmiennej
