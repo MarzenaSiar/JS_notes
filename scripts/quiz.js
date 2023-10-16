@@ -1,7 +1,9 @@
+const dt = []
+
 x = {
     age: 31,
-    city: Warsaw,
-    sex: woman
-    hobbies: "JS", "Books", "Travelling",
+    city: "warsaw",
+    sex: "woman",
+    hobbies: "js", "books", "travelling",
     name: "marzena"
 }
