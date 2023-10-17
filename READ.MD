@@ -15,9 +15,9 @@ scope | function | block | block
 - classic
 - arrow functions
 ---
-### control flow
-1. for
+## control flow
+1. for (we have 4 types of for in JS)
 2. while
 3. do while
 4. switch
-5. 
+
